@@ -1,2 +1,2 @@
 # TelegramBot
-Simple Bot Telegram Made By MannR
+Simple Telegram Bot Made By MannR

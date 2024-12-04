@@ -1,0 +1,37 @@
+{
+  "name": "TelegramBot",
+  "version": "1.0.0",
+  "description": "Made by MannR",
+  "depecrated": false,
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "update": "npm update"
+  },
+  "keywords": [
+    "bot whatsapp"
+  ],
+  "homepage": "https://github.com/MannOffc/TelegramBot",
+  "author": "MannOffc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MannOffc/TelegramBot.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chalk": "^4.1.1",
+    "child_process": "^1.0.2",
+    "colors": "^1.4.0",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "fs-extra": "^10.0.0",
+    "moment-timezone": "^0.5.34",
+    "node-fetch": "^2.6.7",
+    "telegraf": "^4.3.0"
+  }
+}
